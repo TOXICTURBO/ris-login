@@ -483,7 +483,7 @@ document.addEventListener('DOMContentLoaded', function() {
   // Function to validate login
   function validateLogin(username, password) {
       // This is a placeholder function. You should replace this with your own validation logic.
-      return username === 'shinchan' && password === 'shinchan';
+      return username === 'ris' && password === '1';
   }
 
   // Add a submit event listener to the login form
